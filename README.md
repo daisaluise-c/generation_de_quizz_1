@@ -283,3 +283,4 @@ Reponse:
 Pour toute question ou amelioration, consultez le code source dans main.py.
 
 Derniere mise a jour: 9 avril 2026# generation_de_quizz_1
+# generation_de_quizz_1
