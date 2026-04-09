@@ -2,18 +2,6 @@
 
 API de generation de quiz intelligente et flexible. Permet de generer des quizz aleatoires avec filtrage par tags et difficulte.
 
-## Table des matieres
-
-- [Vue d'ensemble](#vue-densemble)
-- [Fonctionnalites](#fonctionnalites)
-- [Prerequis](#prerequis)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Lancement](#lancement)
-- [Utilisation de l'API](#utilisation-de-lapi)
-- [Exemples d'appels](#exemples-dappels)
-- [Structure du projet](#structure-du-projet)
-- [Architecture technique](#architecture-technique)
 
 ## Vue d'ensemble
 
